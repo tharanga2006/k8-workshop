@@ -1,0 +1,9 @@
+image:
+  repository: dtl1976/my-flask-app
+  tag: latest
+
+mysql:
+  host: mysql
+  user: demo_user
+  password: demo@1234
+  db: demo
